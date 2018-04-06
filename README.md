@@ -1,9 +1,9 @@
 # Starter Web Repo
 
-This is a sample website project repository for showing how to use Git and GitHub work
+This is a sample website project repository for showing how to use Git and GitHub work, als it give you access to a sample code base
 
 ## Introduction
-
+Git is a version control tool
 ## Purpose
 The purpose of this repository is to teach students the basic commands in git
 
