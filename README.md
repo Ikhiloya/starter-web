@@ -8,4 +8,4 @@ This is a sample website project repository for showing how to use Git and GitHu
 The purpose of this repository is to teach students the basic commands in git
 
 ## Deployment
-
+We're gonna use a the git tool to work on this project
