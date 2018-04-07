@@ -10,3 +10,5 @@ The purpose of this repository is to teach students the basic commands in git
 
 ## Deployment
 We're gonna use a the git tool to work on this project. it is gonna  be fun
+
+### Copywright
